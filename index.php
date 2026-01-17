@@ -21,7 +21,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         $mail->Host       = 'smtp.gmail.com';
         $mail->SMTPAuth   = true;
         $mail->Username   = 'negid5982@gmail.com';   // your Gmail
-        $mail->Password   = 'ttje iwko wbfx hcqr';      // App Password
+        $mail->Password   = 'APP_PASSWORD_HERE';      // App Password
         $mail->SMTPSecure = 'tls';
         $mail->Port       = 587;
 
@@ -160,5 +160,6 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     </footer>
     <script src="app.js"></script>
 </body>
+
 
 </html>
