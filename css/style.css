@@ -141,8 +141,6 @@ html {
 /* clients section */
 #client-section {
     position: relative;
-    z-index: -1;
-    padding-bottom: 69px;
 }
 
 #client-section::before {
@@ -175,8 +173,7 @@ html {
 
 /* contact session  */
 #contact {
-    /* position: relative; */
-    z-index: -1;
+    position: relative;
 }
 
 #contact::before {
@@ -219,8 +216,8 @@ html {
 footer {
     color: white;
     background: black;
-    padding: 9px 13px;
-    margin-top: 12px;
+    padding: 15px 0;
+    text-align: center;
 }
 
 
@@ -254,4 +251,5 @@ footer {
 
 .center {
     text-align: center;
+
 }
