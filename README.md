@@ -18,12 +18,3 @@ The design is mobile-friendly and visually appealing, suitable for food delivery
 ✔ Clients Section – Trusted clients logos displayed
 ✔ Contact Form – Submits user message and sends email using PHP + PHPMailer
 ✔ Clean UI and UX – Easy navigation and layout for users
-
-📂 Technologies Used
-Frontend   	Backend   	   Email Delivery
-
-HTML5       	PHP	        PHPMailer (SMTP)
-
-CSS3		                  Gmail App Password
-
-JavaScript		
