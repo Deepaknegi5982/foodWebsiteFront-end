@@ -21,6 +21,9 @@ The design is mobile-friendly and visually appealing, suitable for food delivery
 
 📂 Technologies Used
 Frontend   	Backend   	   Email Delivery
+
 HTML5       	PHP	        PHPMailer (SMTP)
+
 CSS3		                  Gmail App Password
+
 JavaScript		
