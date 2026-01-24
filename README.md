@@ -2,8 +2,8 @@
 
 Online Food Ordering & Catering Website
 
-Live Preview: (If deployed on PHP hosting)
-url: https://deepak-foodwebsite.netlify.app/
+Live Preview: 
+url: https://deepaknegi-foodwebsite.netlify.app/
 
 📌 Overview
 
